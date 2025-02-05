@@ -1,0 +1,46 @@
+{
+    "cats": {
+        "name": "cats",
+        "followers": 2500,
+        "following": 5,
+        "posts": [
+            {
+                "image": "https://unsplash.com/photos/brown-tabby-cat-in-close-up-photography-s1puI2BWQzQ",
+                "likes": 200,
+                "comments": 16
+            },
+            {
+                "image": "https://unsplash.com/photos/white-and-brown-long-fur-cat-9m1OFDFAuss",
+                "likes": 300,
+                "comments": 11
+            },
+            {
+                "image": "https://unsplash.com/photos/white-and-brown-long-fur-cat-with-green-and-red-rose-on-head-hxEAE88Onv0",
+                "likes": 800,
+                "comments": 68
+            }
+        ]
+    },
+    "dogs": {
+        "name": "dogs",
+        "followers": 2000,
+        "following": 10,
+        "posts": [
+            {
+                "image": "https://unsplash.com/photos/black-pug-wearing-striped-apparel-DziZIYOGAHc",
+                "likes": 500,
+                "comments": 8
+            },
+            {
+                "image": "https://unsplash.com/photos/black-dog-m-Doa-GTrUw",
+                "likes": 780,
+                "comments": 89
+            },
+            {
+                "image": "https://unsplash.com/photos/golden-retriever-puppy-with-blue-collar-9vvEXgi95Tc",
+                "likes": 287,
+                "comments": 43
+            }
+        ]
+    }
+}
